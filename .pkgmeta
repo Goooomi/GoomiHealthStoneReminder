@@ -1,7 +1,7 @@
 package-as: GoomiUI
 
 curseforge:
-  id: 
+  id: 1461131
 
 ignore:
   - README.md
