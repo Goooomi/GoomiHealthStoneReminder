@@ -1,6 +1,3 @@
--- goomihealthstonereminder.lua - Healthstone reminder module for GoomiUI
--- Version 2.1 - Uses LibCustomGlow from GoomiUI
-
 if not GoomiUI then
     print("Error: GoomiHealthStoneReminder requires GoomiUI to be installed!")
     return
@@ -1064,4 +1061,5 @@ function HealthstoneReminder:CreateSettings(parentFrame)
 end
 
 -- Register module with GoomiUI
+
 GoomiUI:RegisterModule("Healthstone Reminder", HealthstoneReminder)
