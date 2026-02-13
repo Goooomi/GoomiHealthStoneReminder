@@ -2,8 +2,8 @@
 ## Title: Goomi UI - Healthstone Reminder
 ## Notes: Shows a reminder icon when a soulwell is active and you need a healthstone
 ## Author: Goomi
-## Version: 1.0.0
-## X-Curse-Project-ID: 
+## Version: 1.1.0
+## X-Curse-Project-ID: 1461131
 ## RequiredDeps: GoomiUI
 ## SavedVariables: GoomiHealthStoneReminderDB
 
