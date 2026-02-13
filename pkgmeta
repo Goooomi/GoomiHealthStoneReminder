@@ -1,0 +1,11 @@
+package-as: GoomiUI
+
+externals:
+  Libs/LibCustomGlow-1.0:
+    url: https://repos.curseforge.com/wow/libcustomglow/trunk
+    tag: latest
+
+ignore:
+  - README.md
+  - .gitignore
+  - .pkgmeta

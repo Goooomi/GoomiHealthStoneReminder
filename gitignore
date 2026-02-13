@@ -1,0 +1,10 @@
+# Ignore external libraries (fetched automatically by CurseForge packager)
+Libs/
+
+# Development files
+*.md
+!README.md
+
+# OS files
+.DS_Store
+Thumbs.db
